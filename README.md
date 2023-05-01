@@ -6,6 +6,7 @@ A Simple HTML, CSS And JavaScript Linktree clone.
 
 Craete a Simple MERN using Laravel 
 
-- [] Authentication
-- [] Profile 
-- [] Manage Linktree Page
+
+- [ ] Authentication
+- [ ] Profile 
+- [ ] Manage Linktree Page
