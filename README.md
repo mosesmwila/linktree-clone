@@ -4,7 +4,7 @@ A Simple HTML, CSS And JavaScript Linktree clone.
 
 ## Second Phase
 
-Craete a Simple MERN using Laravel 
+Add CMS using Laravel 
 
 
 - [ ] Authentication
